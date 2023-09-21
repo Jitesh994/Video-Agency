@@ -15,14 +15,14 @@
 	1.0 - General Styles
 --------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Poppins', sans-serif;
   line-height: 100%;
   font-size: 14px;
   line-height: 26px;
   color: #606060; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Ubuntu", sans-serif;
+  font-family: 'Poppins', sans-serif;
   color: #081827; }
 
 h1 {
